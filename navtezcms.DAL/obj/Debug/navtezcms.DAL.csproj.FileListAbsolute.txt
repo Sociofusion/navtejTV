@@ -1,0 +1,52 @@
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\navtezcms.DAL.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\navtezcms.DAL.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\Dapper.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\Dapper.xml
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csprojAssemblyReference.cache
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CopyComplete
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\Dapper.Contrib1.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\navtezcms.BO.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\Dapper.Contrib1.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms\navtezcms.DAL\bin\Debug\navtezcms.BO.pdb
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\navtezcms.DAL.dll
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\navtezcms.DAL.pdb
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\Dapper.Contrib1.dll
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\Dapper.dll
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\navtezcms.BO.dll
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\Dapper.Contrib1.pdb
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\navtezcms.BO.pdb
+G:\Projects\Navtej\navtezcms.DAL\bin\Debug\Dapper.xml
+G:\Projects\Navtej\navtezcms.DAL\obj\Debug\navtezcms.DAL.csprojAssemblyReference.cache
+G:\Projects\Navtej\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CoreCompileInputs.cache
+G:\Projects\Navtej\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CopyComplete
+G:\Projects\Navtej\navtezcms.DAL\obj\Debug\navtezcms.DAL.dll
+G:\Projects\Navtej\navtezcms.DAL\obj\Debug\navtezcms.DAL.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.DAL.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.DAL.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\Dapper.Contrib1.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\Dapper.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.BO.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\Dapper.Contrib1.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.BO.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\bin\Debug\Dapper.xml
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csprojAssemblyReference.cache
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CopyComplete
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.pdb
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.DAL.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.DAL.pdb
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\Dapper.Contrib1.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\Dapper.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.BO.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\Dapper.Contrib1.pdb
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\navtezcms.BO.pdb
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\bin\Debug\Dapper.xml
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csprojAssemblyReference.cache
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CoreCompileInputs.cache
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.csproj.CopyComplete
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.DAL\obj\Debug\navtezcms.DAL.pdb

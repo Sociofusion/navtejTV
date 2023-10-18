@@ -1,0 +1,22 @@
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\bin\Release\navtezcms.BO.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\bin\Release\navtezcms.BO.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\bin\Release\Dapper.Contrib1.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\bin\Release\Dapper.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\bin\Release\Dapper.Contrib1.pdb
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\bin\Release\Dapper.xml
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.csprojAssemblyReference.cache
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.csproj.CoreCompileInputs.cache
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.csproj.CopyComplete
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.dll
+E:\Projects\Client\Navtej TV\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.pdb
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\bin\Release\navtezcms.BO.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\bin\Release\navtezcms.BO.pdb
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\bin\Release\Dapper.Contrib1.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\bin\Release\Dapper.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\bin\Release\Dapper.Contrib1.pdb
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\bin\Release\Dapper.xml
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.csprojAssemblyReference.cache
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.csproj.CoreCompileInputs.cache
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.csproj.CopyComplete
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.dll
+G:\Projects\navtezcms\navtejcms\navtezcms.BO\obj\Release\navtezcms.BO.pdb
