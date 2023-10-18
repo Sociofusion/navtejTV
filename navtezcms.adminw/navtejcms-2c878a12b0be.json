@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "navtejcms",
+  "private_key_id": "2c878a12b0bef438e89c6f126152355ab682af77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkSVHo/RgdLuM4\nXk8RF8isSCbIDS9rL556OF8NYU4PbhwzzkMDCS9qdx55ofAa3x8jGnlESnFclguQ\nFqJi+MgYFycLqS3OMmtf92u4G3wScvXpQI+9KBDYHkgHmBsaWm5Hq0xN+qTYNeAL\n9oo68JksaMIF236arTGFnh8pwv6xdd9RZZyHX58bO/kJRPt9n6rV0c8l0UQwwII9\n8IFnXf/UYOr82QJnGPnqR8jYbriA+5mKm1oQ21YgC4c/YmXYUoiVWnREu7nwxrwN\nJp4oQipWY7VYWF4SOWgJWT+mz90RKArI03/AWVjiEGzGW86L6i/LW5RAIUWkw5kr\nPX4QImMHAgMBAAECggEABf1sYJ/VwL6kZzo9DMT+upVY4KNmbrSKRS+H+69oDrT3\nj0X+eH5dvbaBJHMsk3Y+JuQAtuY18ue/nS3OFui2NvalJE4zTtjUxGd7hHdwEyYg\n5DPH6eArmQ2ll61Kk6/nZHKQ8ijo2L9CH32KNbLvCsj5BgimOZKGAzasMTQcYDD6\nknO/zZ3qs6MQPdPTSFt0NEVtUugqemfuyh67Kcdocqx4ZmKFirD148nfUk2c932C\nmFhNepWhzeXxA1f6fBbwuEJ86fn+UpIl61F/7NyVt2P9AgUFWOwxtjYmcjx8ebyt\nNaNzGvY3HVZL7n6We0hrzjOMj/kdheCeFVfOG6KqZQKBgQDOpI0/k5Ky9fLO2pq4\nVZW5M6C/fxJfUCKYgKOQDzcWHs+40yGv5lzg/GbYNSmkrqwA6EAkKHc71EJUB/5g\ntmGZSoSZ/Kl1KMF1lwlZ+q4bOspgw72Xg+JZqQiGoz75uLQLI42bNW7Hq/6uT0nk\nNyDFHxTHOTLjhYwO3FMy/L20LQKBgQDLhtTM3p4frAig9BvCrnfpaeDAw5Dx/mj3\nm5qxVHK9j4r5ZY9C8ge57VCd6RNWctsTzUZkQYQKfYYkj9T1iX7bISMvkKpebvDQ\nPbdavrExBM+NQRbn/QGnpLxuMSjIiapgJAz6TPUqWwpgXnr204nShxAGxUquS8Ut\nbRX0yNnwgwKBgHx+7wpqomtnek3drnF4PqhBzosQx8TcxrsSZXiZchrFnWhA637K\nTxLNfjisbtZk1gQF6P7f0lYdX4i4+CzUNKDiIFmVu5J2Z3es81leih6loOADjeoG\n7wwNprFXEM3q1a4QUXQ9EO0DVoE2C9KO1BNu0lnkwCALiYI6g3Woh7JRAoGAUxnH\nc6sF9zqf/1AMsa3ZCjYP7cUsPpK5OziOrg8kFmAwx2n/V79JBlJukztiiO62otwy\n/KZ/imT8S5tqwaKVaFWcb0RrO8mii/RXFDc+VBx5vlwwRSLZ9SBfS8LIuzDynvS5\nU83uYI/xqa2KGZP/9zTsh0cxGf+YD9c1mtATpI8CgYA8xa3ObE+1FccIDYHHJ9We\nEkhrebwd8yh7buGOKczgsVJS8613LwdvD80RyE6158LCcJqkQ7TANRMPqDwYSKTB\n/sKLvk0uuauKXzrNEObzzJNV0tzynR4KhnzT/jvp0FoYbjuQuwgWB0V1WpTNBV53\n+6mIHfYLPq5AYGVUck4BrA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "navtejcms@navtejcms.iam.gserviceaccount.com",
+  "client_id": "111378393971062820669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/navtejcms%40navtejcms.iam.gserviceaccount.com"
+}

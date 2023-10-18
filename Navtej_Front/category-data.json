@@ -1,0 +1,487 @@
+[
+  {
+    "MenuTitle": "",
+    "ParentTypeID": 2,
+    "Slug": "home",
+    "MenuOrder": 1,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 25662
+  },
+  {
+    "MenuTitle": "मुख्य पृष्ठ",
+    "ParentTypeID": 12,
+    "Slug": "Home",
+    "MenuOrder": 3,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 55
+  },
+  {
+    "MenuTitle": "मुख्य पृष्ठ",
+    "ParentTypeID": 12,
+    "Slug": "Home",
+    "MenuOrder": 4,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 55
+  },
+  {
+    "MenuTitle": "राज्य समाचार",
+    "ParentTypeID": 12,
+    "Slug": "State",
+    "MenuOrder": 6,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "राजस्थान",
+        "ParentTypeID": 12,
+        "Slug": "Rajasthan",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 62
+      },
+      {
+        "MenuTitle": "बिहार",
+        "ParentTypeID": 12,
+        "Slug": "बिहार",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 63
+      },
+      {
+        "MenuTitle": "उत्तर प्रदेश",
+        "ParentTypeID": 12,
+        "Slug": "उत्तर-प्रदेश",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 64
+      },
+      {
+        "MenuTitle": "दिल्ली",
+        "ParentTypeID": 12,
+        "Slug": "दिल्ली",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 65
+      },
+      {
+        "MenuTitle": "मध्य प्रदेश",
+        "ParentTypeID": 12,
+        "Slug": "मध्य-प्रदेश",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 66
+      },
+      {
+        "MenuTitle": "छत्तीसगढ",
+        "ParentTypeID": 12,
+        "Slug": "छत्तीसगढ",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 67
+      },
+      {
+        "MenuTitle": "हरियाणा",
+        "ParentTypeID": 12,
+        "Slug": "हरियाणा",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 68
+      }
+    ],
+    "ID": 56
+  },
+  {
+    "MenuTitle": "देश विदेश",
+    "ParentTypeID": 12,
+    "Slug": "Desh-videsh",
+    "MenuOrder": 7,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 59
+  },
+  {
+    "MenuTitle": "राज्य समाचार",
+    "ParentTypeID": 12,
+    "Slug": "State",
+    "MenuOrder": 7,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "राजस्थान",
+        "ParentTypeID": 12,
+        "Slug": "Rajasthan",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 62
+      },
+      {
+        "MenuTitle": "बिहार",
+        "ParentTypeID": 12,
+        "Slug": "बिहार",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 63
+      },
+      {
+        "MenuTitle": "उत्तर प्रदेश",
+        "ParentTypeID": 12,
+        "Slug": "उत्तर-प्रदेश",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 64
+      },
+      {
+        "MenuTitle": "दिल्ली",
+        "ParentTypeID": 12,
+        "Slug": "दिल्ली",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 65
+      },
+      {
+        "MenuTitle": "मध्य प्रदेश",
+        "ParentTypeID": 12,
+        "Slug": "मध्य-प्रदेश",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 66
+      },
+      {
+        "MenuTitle": "छत्तीसगढ",
+        "ParentTypeID": 12,
+        "Slug": "छत्तीसगढ",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 67
+      },
+      {
+        "MenuTitle": "हरियाणा",
+        "ParentTypeID": 12,
+        "Slug": "हरियाणा",
+        "MenuOrder": 0,
+        "ParentMenuID": 56,
+        "childs": [],
+        "ID": 68
+      }
+    ],
+    "ID": 56
+  },
+  {
+    "MenuTitle": "चुनाव 2022",
+    "ParentTypeID": 12,
+    "Slug": "Election-2022",
+    "MenuOrder": 8,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 60
+  },
+  {
+    "MenuTitle": "देश विदेश",
+    "ParentTypeID": 12,
+    "Slug": "Desh-videsh",
+    "MenuOrder": 8,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 59
+  },
+  {
+    "MenuTitle": "आध्यात्म",
+    "ParentTypeID": 12,
+    "Slug": "Religion",
+    "MenuOrder": 9,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 61
+  },
+  {
+    "MenuTitle": "चुनाव 2022",
+    "ParentTypeID": 12,
+    "Slug": "Election-2022",
+    "MenuOrder": 9,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 60
+  },
+  {
+    "MenuTitle": "टी-20 वर्ल्ड कप",
+    "ParentTypeID": 12,
+    "Slug": "T-20-WORLD-CUP",
+    "MenuOrder": 10,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 57
+  },
+  {
+    "MenuTitle": "आध्यात्म",
+    "ParentTypeID": 12,
+    "Slug": "Religion",
+    "MenuOrder": 10,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 61
+  },
+  {
+    "MenuTitle": "फिल्मी जगत",
+    "ParentTypeID": 12,
+    "Slug": "Entertain",
+    "MenuOrder": 11,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 58
+  },
+  {
+    "MenuTitle": "टी-20 वर्ल्ड कप",
+    "ParentTypeID": 12,
+    "Slug": "T-20-WORLD-CUP",
+    "MenuOrder": 11,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 57
+  },
+  {
+    "MenuTitle": "जॉब",
+    "ParentTypeID": 12,
+    "Slug": "JOB",
+    "MenuOrder": 12,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 69
+  },
+  {
+    "MenuTitle": "फिल्मी जगत",
+    "ParentTypeID": 12,
+    "Slug": "Entertain",
+    "MenuOrder": 12,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 58
+  },
+  {
+    "MenuTitle": "जॉब",
+    "ParentTypeID": 12,
+    "Slug": "JOB",
+    "MenuOrder": 13,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 69
+  },
+  {
+    "MenuTitle": "लाइफस्टाइल",
+    "ParentTypeID": 12,
+    "Slug": "lifestyle",
+    "MenuOrder": 43,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "Spotlight",
+        "ParentTypeID": 12,
+        "Slug": "Spotlight",
+        "MenuOrder": 0,
+        "ParentMenuID": 3,
+        "childs": [],
+        "ID": 50
+      },
+      {
+        "MenuTitle": "Recipe",
+        "ParentTypeID": 12,
+        "Slug": "Recipe",
+        "MenuOrder": 0,
+        "ParentMenuID": 3,
+        "childs": [],
+        "ID": 51
+      }
+    ],
+    "ID": 3
+  },
+  {
+    "MenuTitle": "Business",
+    "ParentTypeID": 12,
+    "Slug": "business",
+    "MenuOrder": 44,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "Global Business",
+        "ParentTypeID": 12,
+        "Slug": "Global-Business",
+        "MenuOrder": 0,
+        "ParentMenuID": 4,
+        "childs": [],
+        "ID": 48
+      },
+      {
+        "MenuTitle": "Banking",
+        "ParentTypeID": 12,
+        "Slug": "Banking",
+        "MenuOrder": 0,
+        "ParentMenuID": 4,
+        "childs": [],
+        "ID": 49
+      }
+    ],
+    "ID": 4
+  },
+  {
+    "MenuTitle": "लाइफस्टाइल",
+    "ParentTypeID": 12,
+    "Slug": "lifestyle",
+    "MenuOrder": 44,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "Spotlight",
+        "ParentTypeID": 12,
+        "Slug": "Spotlight",
+        "MenuOrder": 0,
+        "ParentMenuID": 3,
+        "childs": [],
+        "ID": 50
+      },
+      {
+        "MenuTitle": "Recipe",
+        "ParentTypeID": 12,
+        "Slug": "Recipe",
+        "MenuOrder": 0,
+        "ParentMenuID": 3,
+        "childs": [],
+        "ID": 51
+      }
+    ],
+    "ID": 3
+  },
+  {
+    "MenuTitle": "Business",
+    "ParentTypeID": 12,
+    "Slug": "business",
+    "MenuOrder": 45,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "Global Business",
+        "ParentTypeID": 12,
+        "Slug": "Global-Business",
+        "MenuOrder": 0,
+        "ParentMenuID": 4,
+        "childs": [],
+        "ID": 48
+      },
+      {
+        "MenuTitle": "Banking",
+        "ParentTypeID": 12,
+        "Slug": "Banking",
+        "MenuOrder": 0,
+        "ParentMenuID": 4,
+        "childs": [],
+        "ID": 49
+      }
+    ],
+    "ID": 4
+  },
+  {
+    "MenuTitle": "Sports",
+    "ParentTypeID": 12,
+    "Slug": "sports",
+    "MenuOrder": 46,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "Cricket",
+        "ParentTypeID": 12,
+        "Slug": "Cricket",
+        "MenuOrder": 0,
+        "ParentMenuID": 5,
+        "childs": [],
+        "ID": 30
+      },
+      {
+        "MenuTitle": "Football",
+        "ParentTypeID": 12,
+        "Slug": "footbal",
+        "MenuOrder": 0,
+        "ParentMenuID": 5,
+        "childs": [],
+        "ID": 31
+      }
+    ],
+    "ID": 5
+  },
+  {
+    "MenuTitle": "Sports",
+    "ParentTypeID": 12,
+    "Slug": "sports",
+    "MenuOrder": 47,
+    "ParentMenuID": 0,
+    "childs": [
+      {
+        "MenuTitle": "Cricket",
+        "ParentTypeID": 12,
+        "Slug": "Cricket",
+        "MenuOrder": 0,
+        "ParentMenuID": 5,
+        "childs": [],
+        "ID": 30
+      },
+      {
+        "MenuTitle": "Football",
+        "ParentTypeID": 12,
+        "Slug": "footbal",
+        "MenuOrder": 0,
+        "ParentMenuID": 5,
+        "childs": [],
+        "ID": 31
+      }
+    ],
+    "ID": 5
+  },
+  {
+    "MenuTitle": "Tech",
+    "ParentTypeID": 12,
+    "Slug": "tech",
+    "MenuOrder": 49,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 7
+  },
+  {
+    "MenuTitle": "Tech",
+    "ParentTypeID": 12,
+    "Slug": "tech",
+    "MenuOrder": 50,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 7
+  },
+  {
+    "MenuTitle": "जुर्म",
+    "ParentTypeID": 12,
+    "Slug": "Crime",
+    "MenuOrder": 53,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 70
+  },
+  {
+    "MenuTitle": "जुर्म",
+    "ParentTypeID": 12,
+    "Slug": "Crime",
+    "MenuOrder": 54,
+    "ParentMenuID": 0,
+    "childs": [],
+    "ID": 70
+  }
+]
